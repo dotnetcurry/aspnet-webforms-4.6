@@ -1,0 +1,6 @@
+C:\Source\GitHub\WebFormsInNET46\HTTP2Example\bin\HTTP2Example.dll.config
+C:\Source\GitHub\WebFormsInNET46\HTTP2Example\bin\HTTP2Example.dll
+C:\Source\GitHub\WebFormsInNET46\HTTP2Example\bin\HTTP2Example.pdb
+C:\Source\GitHub\WebFormsInNET46\HTTP2Example\obj\Release\HTTP2Example.dll
+C:\Source\GitHub\WebFormsInNET46\HTTP2Example\obj\Release\HTTP2Example.pdb
+C:\Source\GitHub\WebFormsInNET46\HTTP2Example\obj\Release\HTTP2Example.csprojResolveAssemblyReference.cache
